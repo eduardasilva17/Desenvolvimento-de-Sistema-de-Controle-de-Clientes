@@ -1,0 +1,8 @@
+namespace Atividade |
+{
+ classe Pessoa_Fisica : Clientes
+    {
+ cadeia de caracteres pública cpf {get; set;}
+        public string rg {get; set;}
+    }
+}
